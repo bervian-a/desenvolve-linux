@@ -1,0 +1,12 @@
+LINUX
+
+Pratica Gerenciamento de Pacotes
+
+- Abra o Ubuntu Software Center e busque pelo programa Visual Code --> ok
+
+- Abra o terminal;
+
+- Execute o comando apt-get install sl;
+
+- O que ocorreu?
+Ocorreu um erro, não foi possivel instalar o aplicativo pois é necessário senha de administrador.
